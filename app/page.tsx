@@ -1,3 +1,4 @@
+'use client';
 import React, { useState } from 'react';
 import { Shield, ChevronDown, Menu, X, Building2, BadgeCheck } from 'lucide-react';
 
